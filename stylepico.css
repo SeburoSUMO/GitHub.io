@@ -40,7 +40,7 @@ section {
   position: absolute;
   padding: 5px;
   background-color: rgba(0, 255, 65, 0.85);
-  color: #FFF;
+  color: #00ff41;
   border: 1px dashed rgba(0, 255, 65, 0.7);
   z-index: 2;
   font-size: 12px;
@@ -48,7 +48,7 @@ section {
 
 .highlighter {
   background: rgba(0, 255, 65, 0.25);
-  border: 1px dashed #fff;
+  border: 1px dashed #00ff41;
   z-index: 1;
   position: absolute;
 }
